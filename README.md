@@ -8,7 +8,7 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- [Add others, e.g., "Python", "HTML/CSS", "Machine Learning"]
+- , "Python", "HTML/CSS", "Machine Learning"
 
 ## Current Projects
 - [Project name](link) — short description
