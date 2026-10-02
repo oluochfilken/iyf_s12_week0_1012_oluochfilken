@@ -11,7 +11,8 @@
 - , "Python", "HTML/CSS", "Machine Learning"
 
 ## Current Projects
-- [Project name](link) — short description
+-Project name: HTML Practice Project
+Short description: A beginner project for practicing HTML and web development.
 
 ## How to Reach Me
 - Email: oluochfilken@gmail.com
