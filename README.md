@@ -27,24 +27,21 @@
         <li>JavaScript</li>
         <li>git and github</li>
     </ul>
-    </section>
-
-    <section> 
+   </section>
+<section> 
         <h2>Git configuration</h2>
         <pre>
             <code>
 
-            filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.clean=git-lfs clean -- %f
             filter.lfs.smudge=git-lfs smudge -- %f
             filter.lfs.process =git-lfs filter-process
             filter.lfs.required=true
             user.name=oluoch filken
             user.email=oluochfilken@gmail.com
         </code></pre>
-
-    </section>
-
-    <section>
+ </section>
+<section>
         <h2>My projects</h2>
         <ul>
             <li>
@@ -55,8 +52,7 @@
             </li>
         <li>
             <a href="ADD-YOUR-TEAM-REPOSITRORY-LINK-HERE">My Team Repository
-
-            </a>
+</a>
         </li>
         </ul>
     </section>
