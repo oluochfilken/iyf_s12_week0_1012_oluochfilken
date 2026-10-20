@@ -1,1 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<tittle>oluoch filken|Developer profile</tittle>
+</head>
+<body>
+    <header><h1>Hi, I'm Oluoch Filken</h1>
+        <p>I'm  currently learning computer programming at WeCan Academy</p>
+    </header>
+    <main>
+        <section>
+<h2>MY interests</h2>
+<ul>
+    <li>Web development</li>
+    <li>artificial intelligence </li>
+<li>data science</li>
+</ul>
+   </section>
 
+   <section>
+    <h2>skills i am learning </h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>git and github</li>
+    </ul>
+    </section>
+
+    <section> 
+        <h2>Git configuration</h2>
+        <pre>
+            <code>
+
+            filter.lfs.clean=git-lfs clean -- %f
+            filter.lfs.smudge=git-lfs smudge -- %f
+            filter.lfs.process =git-lfs filter-process
+            filter.lfs.required=true
+            user.name=oluoch filken
+            user.email=oluochfilken@gmail.com
+        </code></pre>
+
+    </section>
+
+    <section>
+        <h2>My projects</h2>
+        <ul>
+            <li>
+                <a href="https://oluochfilken.github.io/">My portfolio website</a>
+            </li>
+            <li>
+                <a href="markdown practice.md">Markdown practice</a>
+            </li>
+        <li>
+            <a href="ADD-YOUR-TEAM-REPOSITRORY-LINK-HERE">My Team Repository
+
+            </a>
+        </li>
+        </ul>
+    </section>
+    </main>
+    <footer>
+        <p>&copy; 2026 Oluoch Filken. All rights reserved.</p>
+    </footer>
+</body>
+</html>
